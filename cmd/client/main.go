@@ -10,7 +10,7 @@ import (
 
 	"github.com/kdada/tinyvpn/pkg/proto"
 	"github.com/kdada/tinyvpn/pkg/tun"
-	"github.com/xtaci/kcp-go"
+	"github.com/AudriusButkevicius/kcp-go"
 )
 
 var server string
